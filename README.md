@@ -2,4 +2,4 @@ I’ve been building software in C++ since the first edition of *Effective C++* 
 
 ---
 ### 🧰 Tech Stack
-C++17/20 • Embedded Linux • CMake • clang-tidy • Docker • Git • systemd
+C++17/20 • Linux/Embedded Linux • Git • clang-tidy • clang-format • CMake  • Docker • systemd-networkd
